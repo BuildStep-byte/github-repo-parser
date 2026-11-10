@@ -33,7 +33,6 @@
 
 4.Запусти скрипт:
 
-bash
 python main.py
 5.Результат — файл github_python_repos.xlsx в корне проекта.
 
