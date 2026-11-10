@@ -29,11 +29,13 @@
 
    ```bash
    pip install -r requirements.txt
+   
 3.При необходимости вставь GitHub Token в main.py в переменную TOKEN (для увеличения лимита запросов).
 
 4.Запусти скрипт:
 
 python main.py
+
 5.Результат — файл github_python_repos.xlsx в корне проекта.
 
 Структура проекта
